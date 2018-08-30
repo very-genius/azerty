@@ -25,7 +25,7 @@ SECRET_KEY = '7*noj6d4-bp36=y)omsxlirhl6q&l8=&#gb#xq2=jgysa4=59f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'verygenius.alwaysdata.net']
+ALLOWED_HOSTS = ['127.0.0.1', 'verygenius.alwaysdata.net', 'verygenius-pyhton.alwaysdata.net']
 
 
 # Application definition
